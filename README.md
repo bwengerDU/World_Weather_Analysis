@@ -1,1 +1,4 @@
 # World_Weather_Analysis
+
+## Overview
+The purpose of the project is to help Jack identify the ideal hotels for his clients in regards to particular longitudinal and latitudinal coordinates and particular weather patterns. In order to analyze the data to reach his desired results I will use NumPy, citipy, OpenWeatherMap API, and JSON to collect the necessary data. Once the data is collected I will use scatter plots, Google Maps, and Places API to analyze a variety of weather conditions and geogrpahical coordinates to determine correlations and distributions. The final phase will be to create a heatmap that produces information on specific cities when given specific customer travel preferences. DataFrames will be created to facilitate these searches so that Jack can identify desired destinations for his clients and to identify hotels in those ideal locations.  
